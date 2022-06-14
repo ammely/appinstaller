@@ -1,0 +1,17 @@
+C:\Users\aes\Git\installer\installer\bin\Debug\net6.0-windows\installer.exe
+C:\Users\aes\Git\installer\installer\bin\Debug\net6.0-windows\installer.deps.json
+C:\Users\aes\Git\installer\installer\bin\Debug\net6.0-windows\installer.runtimeconfig.json
+C:\Users\aes\Git\installer\installer\bin\Debug\net6.0-windows\installer.dll
+C:\Users\aes\Git\installer\installer\bin\Debug\net6.0-windows\installer.pdb
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.vbproj.AssemblyReference.cache
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.Form1.resources
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.vbproj.GenerateResource.cache
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.AssemblyInfoInputs.cache
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.AssemblyInfo.vb
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.vbproj.CoreCompileInputs.cache
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.dll
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\refint\installer.dll
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.pdb
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\installer.genruntimeconfig.cache
+C:\Users\aes\Git\installer\installer\obj\Debug\net6.0-windows\ref\installer.dll
